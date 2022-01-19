@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/12993/Desktop/GreedySnake/GreedySnake.c
+stdio.h
+-
+windows.h
+-
+conio.h
+-
+time.h
+-
+
