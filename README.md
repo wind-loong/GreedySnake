@@ -1,1 +1,1 @@
-# GreedySnake
+# Greedy Snake
